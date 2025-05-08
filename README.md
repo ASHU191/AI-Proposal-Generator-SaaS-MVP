@@ -9,7 +9,6 @@ An elegant, modern dark-themed SaaS MVP built with **Next.js 14 (App Router)**, 
 ## 🌌 Live Preview 
 
 > **Coming Soon New Updates:** https://ai-proposal-generator-saa-s-mvp-iwqe.vercel.app/
-> *(You can deploy it with one click or run locally – see below.)*
 
 ---
 
